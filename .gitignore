@@ -37,3 +37,5 @@ cli/enabled-services.js
 cli/configs.json
 essyncer/plugins.json
 packages/core/src/private/uploads/
+temp_auto_push.bat
+temp_interactive_push.bat
